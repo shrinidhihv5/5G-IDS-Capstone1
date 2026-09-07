@@ -1,6 +1,6 @@
-# 5G IDS — Capstone 1
+# 5G IDS
 
-**5G IDS** is a machine-learning-based Intrusion Detection System developed for **Capstone 1** to detect, classify, and visualize malicious traffic in 5G networks.
+**5G IDS** is a machine-learning-based Intrusion Detection System designed to detect, classify, and visualize malicious traffic in 5G networks.
 
 The project combines heterogeneous 5G security datasets, standardized feature extraction, neural-network classification, CSV-based traffic analysis, and an interactive web dashboard.
 
@@ -96,7 +96,7 @@ Benign | Flooding | Fuzzing | Replay
 ## Project Structure
 
 ```text
-5G-IDS-Capstone1/
+5G-IDS/
 ├── dashboard.html
 ├── train_model.py
 ├── analyze_csv.py
@@ -133,8 +133,8 @@ Then open the local dashboard address shown by the server, normally `http://127.
 
 ## Academic Scope
 
-This repository is an academic **Capstone 1** project intended to demonstrate the design and implementation of a machine-learning-based intrusion detection workflow for 5G network traffic. Results should be interpreted within the datasets, preprocessing methods, and evaluation setup used by the project.
+This repository demonstrates the design and implementation of a machine-learning-based intrusion detection workflow for 5G network traffic. Results should be interpreted within the datasets, preprocessing methods, and evaluation setup used by the project.
 
-**Capstone 1 — 5G Intrusion Detection System (5G IDS)**
+**5G Intrusion Detection System (5G IDS)**
 
 Cybersecurity · 5G Network Security · Intrusion Detection · Machine Learning · Traffic Classification · Security Visualization
